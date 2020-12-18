@@ -21,7 +21,7 @@ This is a desktop app that contains an executable intended to provide tools and 
 <br>
 <p>There are several other features and tools added over time such as a program that students can use to practice fundamental writing principles.</p>
 
-<strong>For Windows</strong>:
+<strong>For Windows, download the desktop app by clicking on the link below</strong>:
 https://drive.google.com/drive/folders/13MiyXmJFqW6fXsalvBYQ7XBIoiiwyljE?usp=sharing
 
 <p>There are will be a desktop app for Linux and Mac, too. This desktop app is built with the Electron framework.</p>
