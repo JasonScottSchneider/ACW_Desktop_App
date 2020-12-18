@@ -1,6 +1,8 @@
 # ACW_Desktop_App
 This is a desktop app that contains an executable intended to provide tools and services from the Academic Center for Writing (ACW) at Mountain View Campus for students and writing specialists of Dallas College. This is a link to where users can download the source files from Google Drive. Currently, there is a link to download this desktop app for Windows.
-
+<h2>Click on Executable File</h2>
+<p>After downloading the ACW Desktop App, the student should double-click on <em>acw Setup 0.1.0.exe</em> to open and run the desktop app.</p>
+<img src="https://raw.githubusercontent.com/JasonScottSchneider/ACW_Desktop_App/master/6.jpg" />
 <h2>Screen at Start of Running Desktop App</h2>
 <p>Click on <strong>load program</strong>.</p>
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/ACW_Desktop_App/master/1.jpg" />
