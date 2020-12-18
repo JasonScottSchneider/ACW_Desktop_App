@@ -24,5 +24,5 @@ https://drive.google.com/drive/folders/13MiyXmJFqW6fXsalvBYQ7XBIoiiwyljE?usp=sha
 
 <p>There are will be a desktop app for Linux and Mac, too. This desktop app is built with the Electron framework.</p>
 
-Developer: Jason Schneider
+Developer: Jason Schneider<br>
 Email: jschneider@dcccd.edu
