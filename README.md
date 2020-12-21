@@ -20,7 +20,7 @@ This is a desktop app that contains an executable intended to provide tools and 
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/ACW_Desktop_App/master/5.jpg" />
 <br>
 <h2>Running the executable desktop app on Windows</h2>
-<p>If Windows gives a message that it prevented the app from running, the button proceed anyway can be clicked. Windows will always show this when an executable has not been registered with Microsoft. Unfortunately, signing an executable with Microsoft can cost a significant amount of money, so I (Jason Schneider) did not get the desktop app signed and registered with Microsoft. However, if a user has any questions about the legitimacy of the desktop app, the user can contact me (Jason Schneider) at jschneider@dcccd.edu, and I will be happy to answer any questions.</p>
+<p>If Windows gives a message that it prevented the app from running, the button <em>proceed</em> anyway can be clicked. Windows will always show this when an executable has not been registered with Microsoft. Unfortunately, signing an executable with Microsoft can cost a significant amount of money, so I (Jason Schneider) did not get the desktop app signed and registered with Microsoft. However, if a user has any questions about the legitimacy of the desktop app, the user can contact me (Jason Schneider) at jschneider@dcccd.edu, and I will be happy to answer any questions.</p>
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/ACW_Desktop_App/master/windows_blue_screen.png" />
 <br>
 <p>There are several other features and tools added over time such as a program that students can use to practice fundamental writing principles.</p>
