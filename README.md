@@ -27,7 +27,7 @@ This is a desktop app that contains an executable intended to provide tools and 
 
 <strong>For Windows, download the desktop app by clicking on the link below</strong>:
 https://drive.google.com/drive/folders/13MiyXmJFqW6fXsalvBYQ7XBIoiiwyljE?usp=sharing
-
+<p><em>ACW_Desktop_App_Windows_v011</em> is a newer version, but it is still undergoing testing. It will provide additional functionality that <em>ACW_Desktop_App_Windows</em> (one version older than v011) doesn't provide.</p>
 <p>There are will be a desktop app for Linux and Mac, too. This desktop app is built with the Electron framework.</p>
 
 Developer: Jason Schneider<br>
